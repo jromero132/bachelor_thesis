@@ -1,0 +1,6 @@
+[submodule "paper"]
+	path = paper
+	url = https://github.com/jromero132/bachelor_thesis_paper
+[submodule "code"]
+	path = code
+	url = https://github.com/jromero132/bachelor_thesis_code
