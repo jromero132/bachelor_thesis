@@ -41,6 +41,15 @@ Puede verse más información al respecto en el archivo `readme.md` en dicho rep
 ## Exposición
 
 La exposición de la tesis puede encontrarse en formato `.mp4` y con calidad reducida en: \
-<>
+<https://drive.google.com/file/d/1JuMuofLGrgMUMplLePh67pEEwcdmdUI5/view?usp=sharing>
 
 ## Preguntas del Tribunal y de la Oponencia
+
+Las preguntas del tribunal y de la oponencia, junto a las respuestas de las mismas, puede encontrarse en: \
+<https://github.com/jromero132/bachelor_thesis>
+
+En este repositorio hay una carpeta llamada `committee questions`, dentro de ella, se encuentra:
+
+- `tribunal questions.pdf` $\rightarrow$ preguntas hechas por el tribunal
+- `opponent questions.pdf` $\rightarrow$ preguntas hechas por la oponencia
+- `answers.pdf` $\rightarrow$ documento donde se encuentran las respuestas a las preguntas hechas por el tribunal y por la oponencia. El mismo fue hecho en [LaTex](https://www.latex-project.org/) y el documento del código de este está bajo el nombre `answers.tex`.
