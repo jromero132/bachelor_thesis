@@ -50,6 +50,6 @@ Las preguntas del tribunal y de la oponencia, junto a las respuestas de las mism
 
 En este repositorio hay una carpeta llamada `committee questions`, dentro de ella, se encuentra:
 
-- `tribunal questions.pdf` $\rightarrow$ preguntas hechas por el tribunal
-- `opponent questions.pdf` $\rightarrow$ preguntas hechas por la oponencia
-- `answers.pdf` $\rightarrow$ documento donde se encuentran las respuestas a las preguntas hechas por el tribunal y por la oponencia. El mismo fue hecho en [LaTex](https://www.latex-project.org/) y el documento del código de este está bajo el nombre `answers.tex`.
+- `tribunal questions.pdf`: preguntas hechas por el tribunal
+- `opponent questions.pdf`: preguntas hechas por la oponencia
+- `answers.pdf`: documento donde se encuentran las respuestas a las preguntas hechas por el tribunal y por la oponencia. El mismo fue hecho en [LaTex](https://www.latex-project.org/) y el documento del código de este está bajo el nombre `answers.tex`.
