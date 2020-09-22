@@ -1,0 +1,7 @@
+committee questions/*.aux
+committee questions/*.bbl
+committee questions/*.blg
+committee questions/*.brf
+committee questions/*.log
+committee questions/*.out
+committee questions/*.gz
